@@ -3,4 +3,10 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="signed_inout_bg_color">#959899</color>
+    <color name="app_header_color">#FA8D29</color>
+    <color name="app_status_bar">#FB8000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_bg_name">#EEEEEE</color>
 </resources>

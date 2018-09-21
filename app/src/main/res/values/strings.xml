@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Room_MVP</string>
+    <string name="enter_user_details">Enter user details</string>
 </resources>
